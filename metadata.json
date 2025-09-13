@@ -1,0 +1,7 @@
+{
+  "name": "LockNGo - Luggage Delivery",
+  "description": "A seamless luggage pickup and delivery platform with live tracking, QR code authentication, and role-based dashboards for users, agents, and administrators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
